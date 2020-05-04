@@ -1,0 +1,32 @@
+[
+  {
+    "math": 90,
+    "literature": 94,
+    "science": 89
+  },
+  {
+    "math": 78,
+    "literature": 66,
+    "science": 65
+  },
+  {
+    "math": 88,
+    "literature": 81,
+    "science": 55
+  },
+  {
+    "math": 45,
+    "literature": 62,
+    "science": 76
+  },
+  {
+    "math": 78,
+    "literature": 89,
+    "science": 89
+  },
+  {
+    "math": 98,
+    "literature": 99,
+    "science": 100
+  }
+]
